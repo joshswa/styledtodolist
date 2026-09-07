@@ -64,6 +64,9 @@ h1{
   padding: 10px;
   background-color:#f0f0f0;
   border-radius: 10px;
-  position: relative;
   list-style-type: none;
+}
+
+.sub-item li{
+  list-style: inside disc;
 }
