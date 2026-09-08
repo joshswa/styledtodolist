@@ -5,9 +5,9 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-a{
+/* a{
   text-decoration: none;
-}
+} */
 
 a:link{
   color: teal;
@@ -68,4 +68,8 @@ h1{
 
 .sub-item li{
   list-style: inside disc;
+}
+
+label {
+  padding-left: 6px;
 }
